@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.jme3.gde.lwjgl.applet">
+    <module_version install_time="1546430825286" last="true" origin="installer" specification_version="3.2.0">
+        <file crc="2656893909" name="config/Modules/com-jme3-gde-lwjgl-applet.xml"/>
+        <file crc="3319182441" name="libs/applet-loader.zip"/>
+        <file crc="1169753988" name="modules/com-jme3-gde-lwjgl-applet.jar"/>
+    </module_version>
+</module>

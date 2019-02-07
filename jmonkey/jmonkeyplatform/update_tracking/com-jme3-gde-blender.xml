@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.jme3.gde.blender">
+    <module_version install_time="1546430820498" last="true" origin="installer" specification_version="3.2.0">
+        <file crc="3604649642" name="config/Modules/com-jme3-gde-blender.xml"/>
+        <file crc="901404832" name="modules/com-jme3-gde-blender.jar"/>
+    </module_version>
+</module>

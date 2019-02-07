@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.jme3.gde.welcome">
+    <module_version install_time="1546430837460" last="true" origin="installer" specification_version="3.2.0">
+        <file crc="1195843670" name="config/Modules/com-jme3-gde-welcome.xml"/>
+        <file crc="481412055" name="modules/com-jme3-gde-welcome.jar"/>
+    </module_version>
+</module>

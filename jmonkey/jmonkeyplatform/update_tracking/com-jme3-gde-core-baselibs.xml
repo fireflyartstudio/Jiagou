@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.jme3.gde.core.baselibs/1">
+    <module_version install_time="1546430809353" last="true" origin="installer" specification_version="3.2.0">
+        <file crc="3452542663" name="config/Modules/com-jme3-gde-core-baselibs.xml"/>
+        <file crc="656080062" name="modules/com-jme3-gde-core-baselibs.jar"/>
+        <file crc="3427141182" name="modules/ext/jme3-blender-3.2.2-stable.jar"/>
+        <file crc="231896376" name="modules/ext/jme3-bullet-3.2.2-stable.jar"/>
+        <file crc="687065493" name="modules/ext/jme3-bullet-native-3.2.2-stable.jar"/>
+        <file crc="3253870917" name="modules/ext/jme3-core-3.2.2-stable.jar"/>
+        <file crc="4183543919" name="modules/ext/jme3-desktop-3.2.2-stable.jar"/>
+        <file crc="3065702145" name="modules/ext/jme3-effects-3.2.2-stable.jar"/>
+        <file crc="4062400853" name="modules/ext/jme3-jogg-3.2.2-stable.jar"/>
+        <file crc="1163228313" name="modules/ext/jme3-lwjgl-3.2.2-stable.jar"/>
+        <file crc="3548287536" name="modules/ext/jme3-networking-3.2.2-stable.jar"/>
+        <file crc="3508420030" name="modules/ext/jme3-niftygui-3.2.2-stable.jar"/>
+        <file crc="4235441735" name="modules/ext/jme3-plugins-3.2.2-stable.jar"/>
+        <file crc="2733754798" name="modules/ext/jme3-terrain-3.2.2-stable.jar"/>
+        <file crc="3311326242" name="modules/ext/jme3_ext_spatial_explorer-0.9.2.jar"/>
+        <file crc="2456485534" name="modules/ext/jme3_physicsloader-0.5.jar"/>
+        <file crc="3620455694" name="modules/ext/jme3_xbuf-0.9.1.jar"/>
+        <file crc="2175862141" name="modules/ext/jme3_xbuf_loader-0.9.1.jar"/>
+        <file crc="241819484" name="modules/ext/jme3_xbuf_remote-0.9.1.jar"/>
+        <file crc="1372961865" name="modules/ext/jme3_xbuf_rt-0.9.1.jar"/>
+        <file crc="1044708906" name="modules/ext/jme3_xbuf_viewer-0.9.1.jar"/>
+    </module_version>
+</module>

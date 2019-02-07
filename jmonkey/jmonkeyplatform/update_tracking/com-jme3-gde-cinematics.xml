@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.jme3.gde.cinematics/1">
+    <module_version install_time="1546430819165" last="true" origin="installer" specification_version="3.2.0">
+        <file crc="1715198908" name="config/Modules/com-jme3-gde-cinematics.xml"/>
+        <file crc="1686064774" name="modules/com-jme3-gde-cinematics.jar"/>
+    </module_version>
+</module>

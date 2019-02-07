@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.jme3.gde.templates.tests/1">
+    <module_version install_time="1546430834404" last="true" origin="installer" specification_version="3.2.0">
+        <file crc="2939425256" name="config/Modules/com-jme3-gde-templates-tests.xml"/>
+        <file crc="1919185508" name="modules/com-jme3-gde-templates-tests.jar"/>
+    </module_version>
+</module>

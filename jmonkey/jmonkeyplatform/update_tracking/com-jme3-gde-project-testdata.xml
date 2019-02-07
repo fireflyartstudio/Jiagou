@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.jme3.gde.project.testdata/1">
+    <module_version install_time="1546430830183" last="true" origin="installer" specification_version="3.2.0">
+        <file crc="1139909201" name="config/Modules/com-jme3-gde-project-testdata.xml"/>
+        <file crc="953811920" name="libs/jme3-testdata.jar"/>
+        <file crc="2134850780" name="modules/com-jme3-gde-project-testdata.jar"/>
+    </module_version>
+</module>

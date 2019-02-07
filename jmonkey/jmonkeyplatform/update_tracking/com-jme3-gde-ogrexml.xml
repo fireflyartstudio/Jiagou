@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.jme3.gde.ogrexml/1">
+    <module_version install_time="1546430828795" last="true" origin="installer" specification_version="3.2.0">
+        <file crc="3202459410" name="config/Modules/com-jme3-gde-ogrexml.xml"/>
+        <file crc="2233495525" name="modules/com-jme3-gde-ogrexml.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.jme3.gde.terraineditor">
+    <module_version install_time="1546430835589" last="true" origin="installer" specification_version="3.2.0">
+        <file crc="2304846406" name="config/Modules/com-jme3-gde-terraineditor.xml"/>
+        <file crc="2502237387" name="modules/com-jme3-gde-terraineditor.jar"/>
+    </module_version>
+</module>

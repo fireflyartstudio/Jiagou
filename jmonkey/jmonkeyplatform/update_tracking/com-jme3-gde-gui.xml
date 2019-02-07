@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.jme3.gde.gui/3">
+    <module_version install_time="1546430823461" last="true" origin="installer" specification_version="3.2.0">
+        <file crc="1732937067" name="config/Modules/com-jme3-gde-gui.xml"/>
+        <file crc="3091261206" name="modules/com-jme3-gde-gui.jar"/>
+        <file crc="1574912147" name="modules/ext/Nifty-Editor0.5.7.jar"/>
+        <file crc="826192464" name="modules/ext/beansbinding-1.2.1.jar"/>
+        <file crc="1116739117" name="modules/ext/guava-16.0.1.jar"/>
+        <file crc="2178827849" name="modules/ext/jTatoo.jar"/>
+        <file crc="735939774" name="modules/ext/javassist.jar"/>
+        <file crc="1536257790" name="modules/ext/nifty-java2d-renderer-1.4.0-SNAPSHOT.jar"/>
+        <file crc="2676826284" name="modules/ext/reflections-0.9.9-RC1.jar"/>
+        <file crc="2473418569" name="modules/ext/relaxngDatatype-1.5.jar"/>
+        <file crc="2924188243" name="modules/ext/slf4j-simple-1.7.7.jar"/>
+        <file crc="403711669" name="modules/ext/swingtonifty.jar"/>
+        <file crc="2609426614" name="modules/ext/xsom-20110101-SNAPSHOT.jar"/>
+    </module_version>
+</module>

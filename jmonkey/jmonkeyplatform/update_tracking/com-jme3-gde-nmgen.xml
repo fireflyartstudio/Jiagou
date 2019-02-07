@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.jme3.gde.nmgen">
+    <module_version install_time="1546430827899" last="true" origin="installer" specification_version="3.2.0">
+        <file crc="1948105231" name="config/Modules/com-jme3-gde-nmgen.xml"/>
+        <file crc="3576285855" name="modules/com-jme3-gde-nmgen.jar"/>
+        <file crc="2009642081" name="modules/ext/cai-nmgen-0.2.0.jar"/>
+    </module_version>
+</module>

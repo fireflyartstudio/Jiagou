@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.jme3.netbeans.plaf.darkmonkey/1">
+    <module_version install_time="1546430837807" last="true" origin="installer" specification_version="3.2.0">
+        <file crc="3271466194" name="config/Modules/org-jme3-netbeans-plaf-darkmonkey.xml"/>
+        <file crc="3219468293" name="modules/ext/nimrodlf.jar"/>
+        <file crc="417399312" name="modules/org-jme3-netbeans-plaf-darkmonkey.jar"/>
+    </module_version>
+</module>

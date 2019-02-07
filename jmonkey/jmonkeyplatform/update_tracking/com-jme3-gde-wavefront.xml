@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.jme3.gde.wavefront/1">
+    <module_version install_time="1546430836981" last="true" origin="installer" specification_version="3.2.0">
+        <file crc="2810244725" name="config/Modules/com-jme3-gde-wavefront.xml"/>
+        <file crc="1231804973" name="modules/com-jme3-gde-wavefront.jar"/>
+    </module_version>
+</module>

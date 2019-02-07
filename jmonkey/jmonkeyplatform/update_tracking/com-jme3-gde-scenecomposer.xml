@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.jme3.gde.scenecomposer/1">
+    <module_version install_time="1546430831227" last="true" origin="installer" specification_version="3.2.0">
+        <file crc="2507575756" name="config/Modules/com-jme3-gde-scenecomposer.xml"/>
+        <file crc="2846938789" name="modules/com-jme3-gde-scenecomposer.jar"/>
+    </module_version>
+</module>

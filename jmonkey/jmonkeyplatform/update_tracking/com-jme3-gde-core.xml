@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.jme3.gde.core/1">
+    <module_version install_time="1546430817769" last="true" origin="installer" specification_version="3.2.0">
+        <file crc="2659907966" name="config/Modules/com-jme3-gde-core.xml"/>
+        <file crc="2559613918" name="modules/com-jme3-gde-core.jar"/>
+        <file crc="3777619066" name="modules/ext/DDSUtils.jar"/>
+        <file crc="1277217186" name="modules/ext/commons-beanutils-1.8.3.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.jme3.gde.vehiclecreator">
+    <module_version install_time="1546430836604" last="true" origin="installer" specification_version="3.2.0">
+        <file crc="2850163433" name="config/Modules/com-jme3-gde-vehiclecreator.xml"/>
+        <file crc="3088963858" name="modules/com-jme3-gde-vehiclecreator.jar"/>
+    </module_version>
+</module>

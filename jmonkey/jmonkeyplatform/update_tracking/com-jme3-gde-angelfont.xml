@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.jme3.gde.angelfont">
+    <module_version install_time="1546430819665" last="true" origin="installer" specification_version="3.2.0">
+        <file crc="3497346059" name="config/Modules/com-jme3-gde-angelfont.xml"/>
+        <file crc="4266929896" name="modules/com-jme3-gde-angelfont.jar"/>
+    </module_version>
+</module>

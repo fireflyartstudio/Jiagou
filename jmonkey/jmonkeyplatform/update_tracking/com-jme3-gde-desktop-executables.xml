@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.jme3.gde.desktop.executables">
+    <module_version install_time="1546430821008" last="true" origin="installer" specification_version="3.2.0">
+        <file crc="3073737754" name="config/Modules/com-jme3-gde-desktop-executables.xml"/>
+        <file crc="912628039" name="modules/com-jme3-gde-desktop-executables.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.jme3.gde.textureeditor/1">
+    <module_version install_time="1546430836036" last="true" origin="installer" specification_version="3.2.0">
+        <file crc="2222917298" name="config/Modules/com-jme3-gde-textureeditor.xml"/>
+        <file crc="2581961825" name="modules/com-jme3-gde-textureeditor.jar"/>
+        <file crc="1809021794" name="modules/ext/TGAImagePlugin.jar"/>
+    </module_version>
+</module>
